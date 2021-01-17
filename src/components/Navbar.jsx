@@ -3,7 +3,7 @@ import React from 'react'
 
 
 
-const Navbar = ({}) => {
+const Navbar = () => {
         return (
             <Flex bg="tomato" p={4}>
                 <Box>
@@ -13,4 +13,4 @@ const Navbar = ({}) => {
         );
 }
 
-export default Navbar
+export default Navbar;
